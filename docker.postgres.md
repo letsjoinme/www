@@ -16,7 +16,7 @@ password: example
 ```
 For windows we can use: DBeaver CE
 
-- to go inside container
+To go inside container
 ```
 docker exec -it my-postgres-server bash
 ```
